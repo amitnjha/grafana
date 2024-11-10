@@ -3,3 +3,4 @@ grafana:
     enabled: true
     type: NodePort
     nodePort: 30180
+
